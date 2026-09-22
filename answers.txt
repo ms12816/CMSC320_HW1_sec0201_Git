@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is a vast and diverse field especially in the modern era where everything relies on technology
+and analytics. One example is in health, where analyzing large data sets can help identify risks, forecast patient 
+illness, and help map symptoms to treatments
