@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a very useful tool for coding and development especially when working with teams. It allows you to
+work together on different features at the same time through branching and version control. It is an industry
+standard across the software engineer and computer science space, while also supporting individual project storage
+for students and proffesionals.
