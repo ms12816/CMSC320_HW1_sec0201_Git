@@ -12,3 +12,7 @@ Answer: Data science is a vast and diverse field especially in the modern era wh
 and analytics. One example is in health, where analyzing large data sets can help identify risks, forecast patient 
 illness, and help map symptoms to treatments
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to building on my foundational python and sql knowledge and to work with my friends on
+the final project. I also want to maintain good grades and keep working out outside of the classroom.
